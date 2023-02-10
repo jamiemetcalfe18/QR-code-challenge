@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [my github](https://github.com/jamiemetcalfe18/QR-code-challenge)
-- Live Site URL: [site](https://github.com/jamiemetcalfe18/QR-code-challenge/deployments/activity_log?environment=github-pages)
+- Live Site URL: [site](https://jamiemetcalfe18.github.io/QR-code-challenge/)
 
 ## My process
 I started off by coloring the background in, and focusing on putting the qr code and text in the right position with flexbox. I then focused in on making everything the right size, or as close to it as I possibly could to the picture given. 
@@ -27,5 +27,3 @@ This was a really good review for me with flexbox. I need a lot more practice wi
 ### Continued development
 If I were to improve upon this, I would intregrate this into a much bigger ad. 
 
-## Author
-https://github.com/jamiemetcalfe18 - jamie metcalfe
